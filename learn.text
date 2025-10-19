@@ -1,3 +1,3 @@
 why use ? in js?
 because it check null safetey. if value exist then it give otherwise give undefine
-so not crase even value is not exist.
+
